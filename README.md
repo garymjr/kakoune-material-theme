@@ -6,5 +6,4 @@ Languages supported now:
 * Julia - 90%
 
 Screenshot: 
-
-![screenshot](https://github.com/valerdi/kak-material-theme/blob/master/material.kak "Julia screenshot")
+![screenshot](https://github.com/valerdi/kak-material-theme/blob/master/screenshot.jpg "Kakoune Julia Material")
