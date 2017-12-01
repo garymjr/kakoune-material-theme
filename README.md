@@ -1,4 +1,4 @@
-# kak-material-theme
+# kakoune-material-theme
 
 #### A material color theme for Kakoune. Inspired by [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
 
